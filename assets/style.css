@@ -1,0 +1,8 @@
+body{
+    background-color: lightblue; /* Color de fondo */
+    
+    color: black; /* Color de texto */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 20px; /* Agregar espacio interno */
+}
